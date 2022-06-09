@@ -24,7 +24,5 @@
 
 ## 🔥 Preview
 
-<img src="images/preview.png" alt="Preview">
+<img src="https://github.com/dnlcorona/web-game/blob/main/images/preview.png" alt="Preview">
 
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
